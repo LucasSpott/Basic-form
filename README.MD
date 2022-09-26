@@ -5,4 +5,4 @@
 <img src="capture.PNG">
 
 #### GIF
-<img src="recorder.GIF">
+<img src="recorder.gif">
